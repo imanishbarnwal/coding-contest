@@ -3,7 +3,8 @@
 | Name | Description | Difficulty | Date |
 | --- | ----------- | -------- | -------- |
 | [Job-A-Thon 11](https://practice.geeksforgeeks.org/contest/job-a-thon-11-hiring-challenge) | This is a hiring Challenge by GFG | Mix | 21/07/2022 |
-| Contest 2 | Text | Beginner | Date |
+| [Codegoda](https://unstop.com/hackathon/codegoda-2022-agoda-363015?refId=ACG22AW) | This is hiring challenge by Agoda on Unstop | Mix | 06/08/2022
+| Contest 3 | Text | Beginner | Date |
 
 
 
