@@ -2,7 +2,7 @@
 
 | Name | Description | Difficulty | Date |
 | --- | ----------- | -------- | -------- |
-| [Weekly Contest 302](https://leetcode.com/contest/weekly-contest-302/) | Weekly Contest on Leetcode | 16/07/2022
+| [Weekly Contest 302](https://leetcode.com/contest/weekly-contest-302/) | Weekly Contest on Leetcode | Mix | 16/07/2022
 | [Job-A-Thon 11](https://practice.geeksforgeeks.org/contest/job-a-thon-11-hiring-challenge) | This is a hiring Challenge by GFG | Mix | 21/07/2022 |
 | [Codegoda](https://unstop.com/hackathon/codegoda-2022-agoda-363015?refId=ACG22AW) | This is hiring challenge by Agoda on Unstop | Mix | 06/08/2022
 | Contest 3 | Text | Beginner | Date |
