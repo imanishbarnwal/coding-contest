@@ -2,12 +2,11 @@
 
 | Name | Description | Platform | Date |
 | --- | ----------- | -------- | -------- |
-| [Starters 48](https://www.codechef.com/START48?itm_medium=hpbanner_2&itm_campaign=START48) | Contest, Rated(Div 2, 3 & 4) | [Codechef](https://www.codechef.com/) | 20/07/2022 |
-| [Job-A-Thon 11](https://practice.geeksforgeeks.org/contest/job-a-thon-11-hiring-challenge) | Hiring Challenge by GFG | [GFG](https://www.geeksforgeeks.org/) | 21/07/2022 |
-| [Long Challenge two](https://www.codechef.com/JULY222?itm_medium=hpbanner_3&itm_campaign=JULY222) | Hiring Challenge, Contest, Rated(Div 3 & 4) | [Codechef](https://www.codechef.com/) | (22-25)/07/2022 |
-| [Biweekly Contest 83](https://leetcode.com/contest/biweekly-contest-83/) | Contest | [Leetcode](https://leetcode.com) | 23/07/2022 |
-| [Weekly Contest 303](https://leetcode.com/contest/weekly-contest-303/) | Contest | [Leetcode](https://leetcode.com) | 24/07/2022 |
+| [Straters 50](https://www.codechef.com/START50?itm_medium=hpevents&itm_campaign=START50) | Contest | [Codechef](https://www.codechef.com) | 03/08/2022 |
 | [Codegoda](https://unstop.com/hackathon/codegoda-2022-agoda-363015?refId=ACG22AW) | Hiring challenge by Agoda | [Unstop](https://unstop.com/home) | 06/08/2022 |
+| [BiWeekly Contest 84](https://leetcode.com/contest/biweekly-contest-84/) | Contest | [Leetcode](https://leetcode.com/) | 06/08/2022 |
+| [Weekly Contest 305](https://leetcode.com/contest/weekly-contest-305/) | Contest | [Leetcode](https://leetcode.com/) | 07/08/2022 |
+| [August Cook-Off](https://www.codechef.com/COOK144?itm_medium=hpevents&itm_campaign=COOK144) | Contest | [Codechef](https://www.codechef.com) | 07/08/2022 |
 | Contest | Text | Website | Date |
 
 
